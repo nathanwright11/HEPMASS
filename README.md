@@ -8,4 +8,4 @@ There are 3 datasets: the first contains samples of only particles with mass 100
 Dataset came from UC Irvine's Machine Learning Repository
 
 Relevant paper:
-Pierre Baldi, Kyle Cranmer, Taylor Faucett, Peter Sadowski, and Daniel Whiteson. 'Parameterized Machine Learning for High-Energy Physics.' www.doi.org/10.1140/epjc/s10052-016-4099-4.
+Pierre Baldi, Kyle Cranmer, Taylor Faucett, Peter Sadowski, and Daniel Whiteson. 'Parameterized Machine Learning for High-Energy Physics.' https://doi.org/10.1140/epjc/s10052-016-4099-4.
