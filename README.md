@@ -1,4 +1,4 @@
-# HEPMASS
+# Particle Detection
  
 This program uses a neural network to identify the signal of a particle with unknown mass, for use in particle accelerators. 
 
